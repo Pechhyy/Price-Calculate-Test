@@ -1,0 +1,15 @@
+{
+  "name": "food-store-calculator",
+  "version": "1.0.0",
+  "description": "Calculator for a food store with 7 menu items, bundle discounts, and member discount.",
+  "main": "calculator.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.2",
+    "typescript": "^5.4.5"
+  }
+}
